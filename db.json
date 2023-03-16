@@ -1,12 +1,12 @@
 {
-"user": [
+  "users": [
     {
       "id": 1,
-      "firstname": "Max",
-      "name":"Mustermann",
+      "name": "Mustermann",
+      "firstname": "Max"
     }
   ],
   "profile": {
-    "name": "Muster"
+    "name": "admin"
   }
 }
