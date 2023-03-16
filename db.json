@@ -1,0 +1,12 @@
+{
+"user": [
+    {
+      "id": 1,
+      "firstname": "Max",
+      "name":"Mustermann",
+    }
+  ],
+  "profile": {
+    "name": "Muster"
+  }
+}
